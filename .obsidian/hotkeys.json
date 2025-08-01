@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:Templates/论文阅读模板.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
